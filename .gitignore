@@ -40,6 +40,7 @@ docker/mysql/db
 resources/views/scribe/
 .scribe/
 docker/mysql/db_data/
+docker/mysql/var/log/
 docker/nginx/logs/
 /docker/php82/composer/auth.json
 /ansible
